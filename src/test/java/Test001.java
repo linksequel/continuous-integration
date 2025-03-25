@@ -16,7 +16,7 @@ public class Test001 {
 
 	@Test
 	public void wrongTest() {
-		assertEquals(3, FloorSquareRoot.floorSqrt(20));
+//		assertEquals(3, FloorSquareRoot.floorSqrt(20));
 	}
 }
 
